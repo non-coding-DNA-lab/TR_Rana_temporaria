@@ -1,2 +1,4 @@
-# TR_Rana_temporaria
-Data for article "Large tandem repeats of grass frog (Rana temporaria) in silico and in situ"
+# Large tandem repeats of grass frog (Rana temporaria) in silico and in situ
+Data for the article:
+- FEDoR sequences
+- alignments of different parts of FEDoR sequences
